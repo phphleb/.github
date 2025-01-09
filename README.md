@@ -8,4 +8,4 @@ This is the very minimum you need to quickly launch an application.
 <p align="center"><a href="https://github.com/phphleb/webrotor" target="_blank"><br>
 <img src="https://raw.githubusercontent.com/phphleb/phphleb/c9c5c57e4715e6b716d9b80a1038d308679bb5ff/profile/wr-banner.png" width="567"></a></p>
 
-[WebRotor](https://github.com/phphleb/webrotor) is a specialized web server designed for asynchronous request processing on virtual hosting. It is easy to install and configure, supporting PHP version 7.2 and above. **WebRotor** enables the use of asynchronous capabilities in frameworks such as Laravel, Symfony, Yii3, Slim, and others.
+[WebRotor](https://github.com/phphleb/webrotor) is a specialized web server designed for asynchronous request processing on shared hosting. It is easy to install and configure, supporting PHP version 7.2 and above. **WebRotor** enables the use of asynchronous capabilities in frameworks such as Laravel, Symfony, Yii3, Slim, and others.
